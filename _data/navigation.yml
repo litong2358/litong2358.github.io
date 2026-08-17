@@ -1,0 +1,6 @@
+# Links shown in the header of the website.
+#
+# This is a single-page site, so there are no nav links. Adding an entry here
+# (title + url) makes it appear in the header again.
+
+main: []
