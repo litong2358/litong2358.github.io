@@ -18,24 +18,25 @@ I am a first-year Ph.D. student in [Computer Science at Virginia Tech](https://c
 
 ## News
 
-* **I am seeking Summer 2027 research internships.** If you think there is a fit, I would be glad to hear from you: [tongli01@vt.edu](mailto:tongli01@vt.edu).
-* **Aug 2026**: Started my Ph.D. in Computer Science at Virginia Tech, advised by Prof. Shengwei An.
-* **May 2026**: Graduated from UMass Boston with a B.S. in Computer Science.
-* **Jul 2025**: Awarded the CSM Undergraduate Research Fellowship.
-* **May 2025**: Joined Amiggle as a Software Engineer Intern for the summer.
+* 🔍 **I am seeking Summer 2027 research internships.**
+* 🎓 **Aug 2026**: Started my Ph.D. in Computer Science at Virginia Tech, advised by Prof. Shengwei An.
+* 🎓 **May 2026**: Graduated from UMass Boston with a B.S. in Computer Science.
+* 🏆 **Jul 2025**: Awarded the CSM Undergraduate Research Fellowship.
+* 💼 **May 2025**: Joined Amiggle as a Software Engineer Intern for the summer.
 
 ## Experience
 
 **Teaching Assistant**, Virginia Tech  
-Aug 2026 – Present
+Aug 2026 – Present  
+CS4824: Machine Learning TA
 
 **Undergraduate Research Assistant**, University of Massachusetts Boston  
 Oct 2025 – May 2026 · Advisor: [Prof. Yinxin Wan](https://www.cs.umb.edu/~ywan/)  
-Fine-tuned several small language models into safety guard models and evaluated when retrieval augmentation helps or hurts.
+Developed a retrieval-augmented LLM safety guard using supervised fine-tuning and reinforcement learning to improve the use of policy examples and the robustness of safety classification.
 
 **Multi-Model Ensemble for Enhanced Classification Performance**  
-Aug 2025 – Mar 2026 · [Code](https://github.com/litong2358/Adversarial-Parallel-Expert-fusion)  
-Designed a tree-structured CNN ensemble that improves both clean and adversarial accuracy over a single-path baseline on CIFAR-10 and CIFAR-100.
+Jun 2025 – Mar 2026 · [Code](https://github.com/litong2358/Adversarial-Parallel-Expert-fusion)  
+Designed a tree-structured CNN mixture-of-experts (MoE) architecture and routing mechanism, integrating task-specialized experts through weighted multi-loss optimization.
 
 **Software Engineer Intern**, Amiggle  
 May 2025 – Aug 2025  
