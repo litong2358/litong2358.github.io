@@ -18,7 +18,7 @@ I am a first-year Ph.D. student in [Computer Science at Virginia Tech](https://c
 
 ## News
 
-* 🔍 **I am seeking Summer 2027 research internships.**
+* 🔍 **I am seeking Summer 2027 research internships!**
 * 🎓 **Aug 2026**: Started my Ph.D. in Computer Science at Virginia Tech, advised by Prof. Shengwei An.
 * 🎓 **May 2026**: Graduated from UMass Boston with a B.S. in Computer Science.
 * 🏆 **Jul 2025**: Awarded the CSM Undergraduate Research Fellowship.
