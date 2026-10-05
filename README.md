@@ -12,7 +12,7 @@ This is a **single-page** site. Built on the [Academic Pages](https://github.com
 | --- | --- |
 | All page content (intro, research interests, news, awards) | `_pages/about.md` |
 | Name, sidebar bio, location, email, social links | `_config.yml` (the `author:` block) |
-| Profile photo | replace `images/profile.png` (square, 512x512) |
+| Profile photo | replace `images/profile.jpg` (square, 512x512) |
 | Header nav links (currently none) | `_data/navigation.yml` |
 
 ## Adding pages back

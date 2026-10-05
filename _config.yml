@@ -23,7 +23,7 @@ repository               : "litong2358/litong2358.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tong Li (Amber)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at Virginia Tech"
