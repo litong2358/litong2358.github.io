@@ -35,7 +35,7 @@ Oct 2025 – May 2026 · Advisor: [Prof. Yinxin Wan](https://www.cs.umb.edu/~ywa
 Developed a retrieval-augmented LLM safety guard using supervised fine-tuning and reinforcement learning to improve the use of policy examples and the robustness of safety classification.
 
 **Multi-Model Ensemble for Enhanced Classification Performance**  
-Jun 2025 – Mar 2026 · [Code](https://github.com/litong2358/Adversarial-Parallel-Expert-fusion)  
+Jun 2025 – Mar 2026 · [Code](https://github.com/litong2358/Adversarial-Parallel-Expert-Fuse)  
 Designed a tree-structured CNN mixture-of-experts (MoE) architecture and routing mechanism, integrating task-specialized experts through weighted multi-loss optimization.
 
 **Software Engineer Intern**, Amiggle  
